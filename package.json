@@ -3,7 +3,7 @@
     "axios": "^0.19.0",
     "mobx": "^5.10.1",
     "mobx-react-lite": "^1.4.1",
-    "next": "^8.1.1-canary.63",
+    "next": "^9.3.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
